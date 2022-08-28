@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
+
+*{
+   margin:0px;
+   padding: 0px;
+}
+
+
+body{
+    display: flex;
+    justify-content: center;
+    height: 100%;
+    width: 100%;
+    background: linear-gradient(to right , green, red);
+}
+
+body div{
+    margin-top: 2%;
+    text-align: center;
+    color: rgb(52, 6, 6);
+    line-height: 40px;
+    font-family: 'Varela Round', sans-serif;
+}
